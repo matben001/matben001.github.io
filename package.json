@@ -1,6 +1,5 @@
 {
   "name": "shane",
-  "homepage": "http://matben001.github.io/matben001.github.io",
   "version": "1.1.4",
   "private": true,
   "dependencies": {
@@ -40,8 +39,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
